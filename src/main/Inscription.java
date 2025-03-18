@@ -51,7 +51,7 @@ public class Inscription extends JFrame {
 //		            UIManager.setLookAndFeel(new SmartLookAndFeel());
 					// VErification des modis dans Origin1
 					Inscription window = new Inscription();
-					// Nouvelle Test encore pour revif
+					// Nouvelle Test encore pour revifier et encore et encore
 					window.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
